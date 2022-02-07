@@ -1,2 +1,2 @@
-# Text-typing
-Text typing javascript
+# Bubble exploder
+A bubble counter made with javascript
